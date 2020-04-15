@@ -59,7 +59,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>edu.nwmissouri.isl.professorcase.kafka.CustomProducer</mainClass>
+              <mainClass>edu.nwmissouri.isl.curtis.kafka.Producer</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
